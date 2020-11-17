@@ -8,6 +8,8 @@
             "email": "truongtran01695gmail.com"
         }
     ],
+	"license": "MIT",
+	 "require": {},
     "autoload": {
         "psr-4": {
             "truongtran01695\\nhomk-module\\": "/"
